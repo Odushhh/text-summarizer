@@ -4,6 +4,7 @@ This web application utilizes NLP techniques such as Sentiment Analysis to creat
  
 It simplifies information extraction to display the vital parts of a text, hence saving time that would've been spent on reading a whole document.
 
+![Screenshot 2024-07-20 080702](https://github.com/user-attachments/assets/8c61cf01-daff-4f18-98e2-14a5158a31fe)
 
 ## **Features**
  - User Interface to upload text
