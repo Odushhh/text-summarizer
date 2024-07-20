@@ -1,8 +1,8 @@
 # Text Summarizer tool w/ Web UI
 
-### This web application utilizes NLP techniques such as Sentiment Analysis to create concise and informative summaries for any text provided.
-
-### It simplifies information extraction to display the vital parts of a text, hence saving time that would've been spent on reading a whole document.
+This web application utilizes NLP techniques such as Sentiment Analysis to create concise and informative summaries for any text provided.
+ 
+It simplifies information extraction to display the vital parts of a text, hence saving time that would've been spent on reading a whole document.
 
 
 ## **Features**
@@ -33,21 +33,22 @@
 
 ## **How to Run the web app locally**
 1. Clone this repo first.
-'''
+```
 git clone https://github.com/Odushhh/text-summarizer.git
-'''
+```
 
-2. Install all necessary packages. Use pip
-'''
+3. Install all necessary packages. Use pip
+```
 pip install -r requirements.txt
 
-OR you can install them manually
-'''
+# OR you can install them manually
+pip install flask textblob nltk Jinja2...
+```
 
 3. Run the Flask app. Write in your terminal
-'''
+```
 python app.py
-'''
+```
 
 
 ## **Issues/Limitations**
@@ -58,5 +59,5 @@ python app.py
 ## **Feedback**
 #### If you have any questions, holla @ me here:
 
-- Email: (Adrian Oduma)[mailto:adrianoduma8@gmail.com]
+- Email: (Adrian Oduma)[adrianoduma8@gmail.com]
 - LinkedIn: (Adrian Oduma on LinkedIn)[https://www.linkedin.com/in/adrian-oduma-4374a4252/]
