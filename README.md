@@ -1,24 +1,24 @@
-Text Summarizer tool w/ Web UI
+# Text Summarizer tool w/ Web UI
 
 ### This web application utilizes NLP techniques such as Sentiment Analysis to create concise and informative summaries for any text provided.
 
 ### It simplifies information extraction to display the vital parts of a text, hence saving time that would've been spent on reading a whole document.
 
 
-# **Features**
+## **Features**
  - User Interface to upload text
  - Automatic text summarization
  - Optionto randomly generate content from Wikepedia
 
 
-# **Technologies used**
+## **Technologies used**
 - Python -> Backend logic
 - Flask -> Frontend UI (to be replaced w/ Streamlit
 - NLTK -> Text processing, Tokenization, and Summarization
 - TextBlob -> Sentiment Analysis
 
 
-# **How to Use**
+## **How to Use**
 1. Input your text
 > Enter anything you want to be summarized into the text area
  
@@ -31,7 +31,7 @@ Text Summarizer tool w/ Web UI
 > Both generated summary & original text will be displayed on same page for you
 
 
-# **How to Run the web app locally**
+## **How to Run the web app locally**
 1. Clone this repo first.
 '''
 git clone https://github.com/Odushhh/text-summarizer.git
@@ -50,7 +50,7 @@ python app.py
 '''
 
 
-# **Issues/Limitations**
+## **Issues/Limitations**
 - Text generation errors
 - To be re=deployed on Streamlit UI
 
