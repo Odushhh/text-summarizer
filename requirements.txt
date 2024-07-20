@@ -1,0 +1,15 @@
+blinker
+click
+Flask
+streamlit
+importlib-metadata
+itsdangerous
+Jinja2
+joblib
+MarkupSafe
+nltk
+regex
+textblob
+tqdm
+Werkzeug
+zipp
